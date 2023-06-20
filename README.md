@@ -2,18 +2,19 @@
 
 # **Ejercicios Java Bootcamp**
 
+bootcamp: [atl.academy](https://atl.academy/bootcamp/java/)
+
 participante: **Andrés Segura.**
 
-Equipo: **Equipo 8 - DevHeroes.**
-
+Equipo: **DevHeroes - Equipo 8.**
 
 [//]: # (# Comentario en markdown)
 
-
 ---
 
-Actividades individuales:
+Actividades individuales: (Enlaces al directorio que contiene el ejercicio).
 
+ * [04. ¿Qué es JSON y cómo se utiliza?](src/clase_04/README.md)
  * [05. Operadores aritmeticos y de lógica](src/clase_05/README.md)
  * [06. Datos primitivos y bucle while.](src/clase_06/README.md)
  * [07. Java - Arrays](src/clase_07/README.md)
@@ -25,8 +26,8 @@ Actividades individuales:
  * [Template](src/clase_11/README.md)
 -->
 
-
 ---
 
-El directorio de las actividades: [**devheroes-table.vercel.app/todo**](https://devheroes-table.vercel.app/todo). 
+[**devheroes-table.vercel.app/todo**](https://devheroes-table.vercel.app/todo). 
+Building... 
 

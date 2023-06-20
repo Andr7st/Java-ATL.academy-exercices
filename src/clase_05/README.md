@@ -1,11 +1,10 @@
 [//]: # (Andrés Segura - Andr7st | github https://github.com/Andr7st)
 
-# Building Blocks
+<img src="../../project-resources/logo.png" align="right" />
 
-## Clase: 05
+# 05. Operadores aritmeticos y de lógica
 
 Home [README.md](../../README.md) 🏠
-
 
 
 
