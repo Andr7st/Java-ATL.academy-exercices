@@ -1,13 +1,10 @@
 [//]: # (Andrés Segura - Andr7st | github https://github.com/Andr7st)
 
-# Building Blocks
+# Template
 
-## Clase: 05
+## Clase: ?
 
 Home [README.md](../../README.md) 🏠
-
-
-
 
 
 [//]: # (Andrés Segura - Andr7st | github https://github.com/Andr7st)
