@@ -12,6 +12,7 @@
 Realización del ejercicio utilizando springboot, donde se hace un repaso del proyecto de la trivia, 
 pero manejando el backend usando java.
 
+[**carpeta-proyecto**](./springboot-app/)
 
 Home [README.md](../../README.md) 🏠
 
