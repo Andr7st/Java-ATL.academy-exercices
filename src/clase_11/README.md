@@ -12,6 +12,10 @@
 Realización del ejercicio utilizando springboot, donde se hace un repaso del proyecto de la trivia, 
 pero manejando el backend usando java.
 
+[]()
+
+[**pom.xml**](./springboot-app/pom.xml)
+
 [**carpeta-proyecto**](./springboot-app/)
 
 [**carpeta-del-ejecutable**](./springboot-app/src/main/java/com/andr7st/sb/app/)
