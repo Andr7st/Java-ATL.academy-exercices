@@ -14,6 +14,8 @@ pero manejando el backend usando java.
 
 [**carpeta-proyecto**](./springboot-app/)
 
+[**carpeta-del-ejecutable**](./springboot-app/src/main/java/com/andr7st/sb/app/)
+
 Home [README.md](../../README.md) 🏠
 
 [//]: # (Andrés Segura - Andr7st | github https://github.com/Andr7st)
